@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-  <<"My first file"<<end1;
+  cout<<"My Third file"<<end1;
 }
